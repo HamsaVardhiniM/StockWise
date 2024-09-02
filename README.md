@@ -16,7 +16,6 @@ By providing a clear view of current stock and accurate demand predictions, our 
 - **Tableau**: Used for creating an interactive dashboard that enables real-time inventory monitoring and demand forecasting with advanced data visualization and integration capabilities.
 - **SQL Database**: Manages data storage, including weekly sales and current stock levels, ensuring robust and scalable data handling with real-time updates.
 - **Python & Jupyter Notebook**: Employed for developing the Elastic Net regression model for demand forecasting. Python’s libraries support accurate model training, while Jupyter Notebook offers an interactive development environment.
-- **Deployment**: The MVP is hosted on a local server for demonstration purposes. The final project will be deployed on Tableau Server for security, scalability, and effective distribution.
 
 ## Implementation Details
 ### Data Handling and Feature Engineering
